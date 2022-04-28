@@ -10,8 +10,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy. When you use our services, we may collect information about your location. With your permission, we may also collect your precise location using methods that includes GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
 
-
-
 The app does use third party services that may collect information used to identify you. 
 
 ### Cookies  
@@ -20,7 +18,7 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
 ### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service. The location services in the users will prompted only during  the use of the service and will not be used or stored anywhere other than the users device.
 
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
